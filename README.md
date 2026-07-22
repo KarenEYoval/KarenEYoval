@@ -2,8 +2,6 @@
 
 # Hi there! I'm Karen
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGl3bjE3NzdydmpvcXFqdGFkNzAyb3E5bGUzZDVtbG1ybTJpeXh0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UtnxCnjWAOL1J6TNUR/giphy.gif" width="350"/>
-
 ### Computer Technologies Student
 ### Full Stack Developer
 
