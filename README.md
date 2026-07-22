@@ -1,12 +1,22 @@
-# Hi there! 👋 I'm Karen
+<div align="center">
 
-**Computer Technologies Student**  
-**Full Stack Developer** passionate about building web applications and learning new technologies.
+# Hi there! I'm Karen
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGl3bjE3NzdydmpvcXFqdGFkNzAyb3E5bGUzZDVtbG1ybTJpeXh0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UtnxCnjWAOL1J6TNUR/giphy.gif" width="350"/>
+
+### Computer Technologies Student
+### Full Stack Developer
+
+*Passionate about building web applications and continuously learning new technologies.*
+
+</div>
+
+---
 
 ## About Me
 
-- Currently learning more about **Python, Django, Next.js, and modern web development**.
 - Experience developing full-stack web applications.
+- Currently learning Python, Django, Next.js, and modern web development.
 - Interested in backend development, databases, and software engineering.
 
 ## Tech Stack
@@ -29,23 +39,31 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-###  E-commerce Website
+---
+
+### E-commerce Website
+
 Full-stack web application developed with **Next.js** featuring:
+
 - Customer module
 - Administrator module
 - Database integration
 
-## GitHub Stats
-
-![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenEYoval&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenEYoval&layout=compact&theme=tokyonight)
-
-##  Connect with Me
-
-- GitHub: https://github.com/KarenEYoval
-- Email: Karenyoval26@gmail.com
-
 ---
 
-Thanks for visiting my profile!  
+## Connect with Me
+
+- **Email:** Karenyoval26@gmail.com
+- **GitHub:** https://github.com/KarenEYoval
+
+---
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=KarenEYoval&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenEYoval&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
