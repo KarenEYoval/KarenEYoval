@@ -2,7 +2,7 @@
 
 # Hi there! I'm Karen
 
-### Computer Technologies Student
+### Computer Technologies 
 ### Full Stack Developer
 
 *Passionate about building web applications and continuously learning new technologies.*
